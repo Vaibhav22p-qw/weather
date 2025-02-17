@@ -1,4 +1,5 @@
-![Repo Logo](logo.png)
+![Repo Logo](![image](https://github.com/user-attachments/assets/717d8f50-5586-484f-b79d-71cf37dee2a6)
+)
 
 # Weather App
 
