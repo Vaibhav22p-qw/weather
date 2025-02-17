@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7ae0cecb-79f3-4905-b808-ba2cd933325f)
+![image](https://github.com/user-attachments/assets/f9253f4f-dcab-4d5c-b5cb-746701bf2ae9)
+
 
 # Weather App
 
